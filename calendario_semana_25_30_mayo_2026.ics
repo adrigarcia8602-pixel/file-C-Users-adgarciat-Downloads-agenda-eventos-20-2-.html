@@ -1,0 +1,1961 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI ChatGPT//CSV Outlook to ICS//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Informe semana 25 - 30 mayo 2026
+X-WR-TIMEZONE:America/Bogota
+BEGIN:VTIMEZONE
+TZID:America/Bogota
+X-LIC-LOCATION:America/Bogota
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+TZNAME:-05
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e594f9edc4db3995edb860fd7db92ab123d78a3f@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T070000
+DTEND;TZID=America/Bogota:20260525T160000
+SUMMARY:INTERNO (PRESTAMO BANDERAS): SUSTENTACIÓN TRABAJO DE GRADO
+LOCATION:MAGISTRAL MENOR / 6° PISO
+DESCRIPTION:*	\n	LUGAR: MAGISTRAL MENOR / 6° PISO\n*	\n	EVENTO: INTERNO 19
+ /05/2026 DE 07:00 A.M. A 5:00 P.M. \n*	\n	CASO Y # DE RESERVA: 80135\n*	\n
+ 	RESPONSABLE: AURA JULIETH VILLEGAS \n*	\n	REQUERIMIENTOS: Bandera Ean y C
+ olombia\n\nInformación original de Outlook:\nCategoría: SALONES\nPriorid
+ ad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\n
+ Recordatorio: Verdadero
+CATEGORIES:SALONES
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (PRESTAMO BANDERAS): SUSTENTACIÓN TRABAJ
+ O DE GRADO
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:40d34bc3af7a094a55962cf86e2bdf7e32862f1b@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260526T080000
+DTEND;TZID=America/Bogota:20260526T170000
+SUMMARY:INTERNO (REUNIÓN): ANRACI
+LOCATION:AULA MÚLTIPLE 1&2
+DESCRIPTION:*	\n	LUGAR: AULA MÚLTIPLE 1&2 \n*	\n	EVENTO: INTERNO 26/05/202
+ 6 DE 08:00 A.M. A 5:00 P.M. \n*	\n	CASO Y # DE RESERVA: 80222 - 30170558\n
+ *	\n	RESPONSABLE: JULIAN SEGURA (FIN)\n*	\n	REQUERIMIENTOS: Pendiente\n*	\
+ n	OBJETIVO: Reunión\n*	\n	PAX: 40\n\nInformación original de Outlook:\nC
+ ategoría: Aula Múltiple\nPrioridad: Normal\nPrivado: Falso\nSensibilidad
+ : Normal\nMostrar como: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Aula Múltiple
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (REUNIÓN): ANRACI
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e04e6d2f1ae6adfb637746d71899944931ea061e@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260527T080000
+DTEND;TZID=America/Bogota:20260527T170000
+SUMMARY:INTERNO (REUNIÓN): ANRACI
+LOCATION:AULA MÚLTIPLE 1&2
+DESCRIPTION:*	\n	LUGAR: AULA MÚLTIPLE 1&2 \n*	\n	EVENTO: INTERNO 26/05/202
+ 6 DE 08:00 A.M. A 5:00 P.M. \n*	\n	CASO Y # DE RESERVA: 80222 - 30170558\n
+ *	\n	RESPONSABLE: JULIAN SEGURA (FIN)\n*	\n	REQUERIMIENTOS: Pendiente\n*	\
+ n	OBJETIVO: Reunión\n*	\n	PAX: 40\n\nInformación original de Outlook:\nC
+ ategoría: Aula Múltiple\nPrioridad: Normal\nPrivado: Falso\nSensibilidad
+ : Normal\nMostrar como: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Aula Múltiple
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (REUNIÓN): ANRACI
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a49cf99d62eab7ee104387a15e697be4f077a2@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T170000
+DTEND;TZID=America/Bogota:20260529T180000
+SUMMARY:INTERNO (AAA): COCTEL MARYWOOD _ CEREMONIA DE GRADOS COLECTIVOS
+LOCATION:Auditorio Nativos
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Nativo
+ s\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 
+ 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Nativos
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): COCTEL MARYWOOD _ CEREMONIA DE GRA
+ DOS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:130d8abbba88cb80670361ed864fd900b558db79@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T130000
+DTEND;TZID=America/Bogota:20260528T160000
+SUMMARY:INTERNO (AA): COCTEL GRADO SIU
+LOCATION:Aula Múltiple
+DESCRIPTION:Información original de Outlook:\nCategoría: Aula Múltiple\n
+ Prioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (
+ BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Aula Múltiple
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AA): COCTEL GRADO SIU
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:40ce0a5604372211dc310995a23878698dbae831@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T080000
+DTEND;TZID=America/Bogota:20260525T150000
+SUMMARY:INTERNO (AA): RUEDA DE NEGOCIOS REMODA CAR
+LOCATION:LOBBY FUNDADORES
+DESCRIPTION:*	\n	LUGAR: LOBBY FUNDADORES\n*	\n	EVENTO: INTERNO 25/05/2026 D
+ E 08:00 A.M. A 3:00 P.M. \n*	\n	CASO Y # DE RESERVA: 78188\n*	\n	RESPONSAB
+ LE: MARIA DEL CARMEN RODRIGUEZ\n*	\n	REQUERIMIENTOS: \n	\n*	\n	OBJETIVO: C
+ ierre Proyecto\n\nInformación original de Outlook:\nCategoría: LOBBY Y P
+ UENTE\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar co
+ mo: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:LOBBY Y PUENTE
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AA): RUEDA DE NEGOCIOS REMODA CAR
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e05f19a8e95b14611686fe176b20531fef4b9da2@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T080000
+DTEND;TZID=America/Bogota:20260525T150000
+SUMMARY:INTERNO (AA): RUEDA DE NEGOCIOS REMODA CAR
+LOCATION:MÚLTIPLE 1 Y 2
+DESCRIPTION:*	\n	LUGAR: MÚLTIPLE 1 Y 2\n*	\n	EVENTO: INTERNO 25/05/2026 DE
+  08:00 A.M. A 3:00 P.M. \n*	\n	CASO Y # DE RESERVA: 78188 - 30164545\n*	\n
+ 	RESPONSABLE: MARIA DEL CARMEN RODRIGUEZ\n*	\n	REQUERIMIENTOS: IINGRESO PO
+ R LA 79 - SEGURIDAD \n\n*	\n	MOBILIARIO SEGUNDO MOMENTO – (SALÓN RUEDA 
+ DE NEGOCIOS) - MÚLTIPLE 1 Y 2\n\n*	\n	Maniquíes tipo costura: 6 a 12 uni
+ dades\, medio cuerpo (recomendado)\, colores neutros (no se tienen - lo tr
+ aen ellos)\n*	\n	Exhibidores: Para bolsos y accesorios\, material: madera 
+ / metal\, estética minimalista (no se tienen - lo traen ellos)\n*	\n	Cubo
+ s brandeados : 12 unidades\, integrados en cada punto de exhibición (no s
+ e tienen - lo traen ellos)\n*	\n	Mesas tipo coctel: 8 unidades Altas (apro
+ x. 1.10 m) (si se tienen)\n*	\n	Sillas altas elegantes: 32 unidades 4 por 
+ mesa\, estilo moderno (se tienen solo 20)\n*	\n	Sofás: 2 módulos Mesas b
+ ajas 1 a 2 Uso: Conversaciones más privadas\, cierre de negocios (se tien
+ e 1 sofá)\n*	\n	Follaje y plantas: Tipo espigas + plantas sutiles\, distr
+ ibución estratégica (no recargado)\, refuerza concepto sostenible (se de
+ be hablar con planta física\, si se pueden utilizar algunas)\n*	\n	Ilumin
+ ación: Spots dirigidos a: Maniquíes\, productos\, luz general cálida\, 
+ ambiente tipo showroom (no se tienen - la traen ellos)\n\n*	\n	OBJETIVO: C
+ ierre Proyecto\n\nInformación original de Outlook:\nCategoría: Aula Múl
+ tiple\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar co
+ mo: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Aula Múltiple
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AA): RUEDA DE NEGOCIOS REMODA CAR
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e008375e5ae44ea45158d6ccd6ec85e3657beb6e@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T100000
+DTEND;TZID=America/Bogota:20260525T130000
+SUMMARY:INTERNO (CONOCIMIENTO): PLAZOLETA DÍA MUNDIAL CONTRA EL TABACO
+LOCATION:PLAZOLETA
+DESCRIPTION:*	\n	LUGAR: PLAZOLETA\n*	\n	EVENTO: INTERNO 25/05/2026 DE 10:00
+  A.M. A 1:00 P.M. \n*	\n	CASO Y # DE RESERVA: 79859\n*	\n	RESPONSABLE: MIC
+ HEL ACUÑA - BIENESTAR UNIVERSITARIO\n*	\n	REQUERIMIENTOS: Nada\n*	\n	OBJE
+ TIVO: Campaña\n*	\n	PAX: N/A\n\nInformación original de Outlook:\nCatego
+ ría: PLAZOLETA - TERRAZA 6 PISO - LOBBY - PUENTE\nPrioridad: Normal\nPriv
+ ado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\nRecordatorio: Ve
+ rdadero
+CATEGORIES:PLAZOLETA - TERRAZA 6 PISO - LOBBY - PUENTE
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (CONOCIMIENTO): PLAZOLETA DÍA MUNDIAL CO
+ NTRA EL TABACO
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69124e18df3d7acb61b555b8f72196597b21c081@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T123000
+DTEND;TZID=America/Bogota:20260529T180000
+SUMMARY:COCTEL COLPENSIONES
+LOCATION:Aula Múltiple
+DESCRIPTION:3 mesas de 1\,80 con mantel y 5 mesas cocteleras. Uso del Video
+  Beam\n\nInformación original de Outlook:\nCategoría: Aula Múltiple\nPr
+ ioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BU
+ SY)\nRecordatorio: Verdadero
+CATEGORIES:Aula Múltiple
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: COCTEL COLPENSIONES
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:93ad11fa591cbcddb00154e2664edfd14b063227@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260526T083000
+DTEND;TZID=America/Bogota:20260526T113000
+SUMMARY:INTERNO (REUNIÓN): Alcaldia Mayor de Bogota y la VIAC - transparen
+ cia en infraestructura CoST
+LOCATION:MAG. FUNDADORES
+DESCRIPTION:*	\n	LUGAR: MAG. FUNDADORES \n*	\n	EVENTO: INTERNO 26/05/2026 D
+ E 08:30 A.M. A 11:30 A.M. \n*	\n	CASO Y # DE RESERVA: 79795 - 30165233\n*	
+ \n	RESPONSABLE: YUDY AIDE CASTILLO TRIVIÑO \n*	\n	REQUERIMIENTOS: 1 mic\,
+  video beam y audio. \n*	\n	OBJETIVO: Reunión\n*	\n	PAX: 40\n\nInformaci
+ ón original de Outlook:\nCategoría: Magistral Fundadores\nPrioridad: Nor
+ mal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\nRecorda
+ torio: Verdadero
+CATEGORIES:Magistral Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (REUNIÓN): Alcaldia Mayor de Bogota y la
+  VIAC - transparencia en infraestructura CoST
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb3d7d565d628796265023334599c908d391c3b@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260530T073000
+DTEND;TZID=America/Bogota:20260530T090000
+SUMMARY:INTERNO (A): MASTER CLASS #2 MARYWOOD
+LOCATION:MAG. FUNDADORES
+DESCRIPTION:*	\n	LUGAR: MAG. FUNDADORES\n*	\n	EVENTO: INTERNO 30/05/2026 DE
+  07:30 A.M. A 9:00 A.M. \n*	\n	CASO Y # DE RESERVA:  30165232 \n*	\n	RESPO
+ NSABLE: ANGIE DAYANA GONZALEZ - INTERNACIONALIZACIÓN\n*	\n	REQUERIMIENTOS
+ : 1 mic\, video beam y audio. \n*	\n	OBJETIVO: Masterclass Marywood\n*	\n	
+ PAX: 60\n\nInformación original de Outlook:\nCategoría: Magistral Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Magistral Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (A): MASTER CLASS #2 MARYWOOD
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:453370af2658040a7d5b2aabf891042127b0d6f9@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260530T073000
+DTEND;TZID=America/Bogota:20260530T130000
+SUMMARY:INTERNO (CLASE): TALLER PROTOTIPADO APOYADO POR IA
+LOCATION:AULA MÚLTIPLE 1&2
+DESCRIPTION:*	\n	LUGAR: AULA MÚLTIPLE 1&2 \n*	\n	EVENTO: INTERNO 09/05/202
+ 6 DE 07:30 A.M. A 1:00 P.M. \n*	\n	CASO Y # DE RESERVA: 79626 - 30165070\n
+ *	\n	RESPONSABLE: ANA MARIA ESLAVA - IMPACTA\n*	\n	REQUERIMIENTOS: 7 mesas
+  con licra y 8 sillas\, video beam y 1 micrófono de cable.\n*	\n	OBJETIVO
+ : Taller \n*	\n	PAX: 60\n\nInformación original de Outlook:\nCategoría: 
+ Aula Múltiple\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nM
+ ostrar como: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Aula Múltiple
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (CLASE): TALLER PROTOTIPADO APOYADO POR I
+ A
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:328626d56bd5dc498433b82d8d6b93bdfc617ab1@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260527T100000
+DTEND;TZID=America/Bogota:20260527T120000
+SUMMARY:CEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 10:00 AM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C30fb72b9b7094f51f26908dea6dd2129%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639131666022835842%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=ViyF2w%2BVTTNT%2F%2Bvbi7HJEFq0Zv3WlXWC4Fiewj7M9QE%3D&reserv
+ ed=0> 	\nCEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 10:00 AM\nfue actualiza
+ do\n\nMAY	\n27	\nmiércoles\, 27 de mayo\n10:00 - 12:00 GMT-5\n <https://c
+ dn.lu.ma/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=false\,backgrou
+ nd=white\,quality=75\,width=40\,height=40/misc/3k/95610a7f-2391-4002-9779-
+ a1e9bfb7216c> 	\n<https://nam10.safelinks.protection.outlook.com/?url=http
+ s%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3DUniversida
+ d%2520Ean%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data=05%7C02%7Cev
+ entosyproducciones%40universidadean.edu.co%7C30fb72b9b7094f51f26908dea6dd2
+ 129%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131666022870760%7CUnkn
+ own%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4z
+ MiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=JXVYqfpjFM8rlvOH4r
+ rQwDpB6bOdW1FwIDZeNyoZRkY%3D&reserved=0> \nUniversidad Ean ↗\nBogotá\, 
+ Colombia\n\nLa siguiente información ha sido actualizada:\n\n*	El nombre 
+ cambió de CEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 10:00 AM a CEREMONIA 
+ DE GRADO COLECTIVO 27 DE MAYO / 10:00 AM.\n\nVer evento <https://nam10.saf
+ elinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2F66u9pjcx&data=
+ 05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C30fb72b9b7094f51f
+ 26908dea6dd2129%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391316660228
+ 95438%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIs
+ IlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1Dw0qV
+ wjQ4JwboELmsIwQwRru3y2GH%2BbOOy9r0EzWfc%3D&reserved=0> 	\nHemos adjuntado 
+ un nuevo evento de calendario que debería actualizar automáticamente tu 
+ calendario.\n\n <https://nam10.safelinks.protection.outlook.com/?url=https
+ %3A%2F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.
+ edu.co%7C30fb72b9b7094f51f26908dea6dd2129%7Cc06fb5591b684b84a14f47d0d837a5
+ ab%7C1%7C0%7C639131666022919886%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOn
+ RydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D
+ %7C0%7C%7C%7C&sdata=14ldD9AWX8ngtgjygLVraoblfqf8XFcfoi4bSvYAuSU%3D&reserve
+ d=0> 	 <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2F
+ luma.com%2Fios%3Futm_source%3Demail-footer&data=05%7C02%7Ceventosyproducci
+ ones%40universidadean.edu.co%7C30fb72b9b7094f51f26908dea6dd2129%7Cc06fb559
+ 1b684b84a14f47d0d837a5ab%7C1%7C0%7C639131666022947107%7CUnknown%7CTWFpbGZs
+ b3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTW
+ FpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8Vw8tJbegn3yhEMNZRdjED24iXs8qU43
+ Zw3jlLcY1eM%3D&reserved=0> 	\n <https://nam10.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fluma.com%2Fandroid%3Futm_source%3Demail-footer&dat
+ a=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C30fb72b9b7094f5
+ 1f26908dea6dd2129%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C63913166602
+ 2971081%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMC
+ IsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=kIe5
+ H5e6aZyDgqzWz11Nka7Vklew10fEYiq2Uk1UFL0%3D&reserved=0> 	\n <https://nam10.
+ safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2Flumahq&data=05
+ %7C02%7Ceventosyproducciones%40universidadean.edu.co%7C30fb72b9b7094f51f26
+ 908dea6dd2129%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131666022994
+ 697%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIl
+ AiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aSrafK%2
+ F8S0peuIv5k9NhmsE3CZo2DfWWCbtyd%2FQ6jW4%3D&reserved=0> 	\n <https://nam10.
+ safelinks.protection.outlook.com/?url=https%3A%2F%2Finstagram.com%2Fluma_h
+ q&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C30fb72b9b7
+ 094f51f26908dea6dd2129%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131
+ 666023018060%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuM
+ DAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata
+ =QZfapYr7wT1Wij%2B3u4KXIIhFHhmeql%2BPOmInANNZ5SE%3D&reserved=0> 	\n \nOr
+ ganiza tu evento con Luma ↗ <https://nam10.safelinks.protection.outlook.
+ com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%3Demail&data=05%7C02%7Ceven
+ tosyproducciones%40universidadean.edu.co%7C30fb72b9b7094f51f26908dea6dd212
+ 9%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131666023041247%7CUnknow
+ n%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMi
+ IsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NS%2B2MIC6%2F76yQVnW
+ SnwvFWPetE37Srj4jVD%2F1QWgmIU%3D&reserved=0> 	\n \n <https://jpdm6py0.r.
+ us-west-2.awstrack.me/I0/0101019ddf6a4fea-64d792e5-0cde-4b1e-b3e2-e868fae0
+ bdb7-000000/5BONQRykkk-Y2W9SqE7Fnf14S3Y=474>\n\nInformación original de O
+ utlook:\nOrganizador Outlook: Eventos Ean\nAsistentes requeridos: EVENTOS 
+ Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Norma
+ l\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:5070c0ba257b0abf33e144a6a0dbe9e7f179d236@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T100000
+DTEND;TZID=America/Bogota:20260529T120000
+SUMMARY:DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 10:00 A
+ M
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C24e5e8bb89b242c65c7608dea61ba9fe%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130835251463683%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=xcREnO%2Bub45B1t%2FmZIa0Hjn%2B891zRLoGyMYoSW38ed8%3D&reserv
+ ed=0> 	\nDOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 10:00
+  AM\nfue actualizado\n\nMAY	\n29	\nviernes\, 29 de mayo\n10:00 - 12:00 GMT
+ -5\n <https://cdn.lu.ma/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=
+ false\,background=white\,quality=75\,width=40\,height=40/misc/3k/95610a7f-
+ 2391-4002-9779-a1e9bfb7216c> 	\n<https://nam10.safelinks.protection.outloo
+ k.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26que
+ ry%3DUniversidad%2520Ean%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&da
+ ta=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C24e5e8bb89b242
+ c65c7608dea61ba9fe%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391308352
+ 51494072%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwM
+ CIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=uXq
+ wWp2PzEQRw1PPP%2B5srhdzKB5vS8T%2BBIh2hPOest4%3D&reserved=0> \nUniversidad 
+ Ean ↗\nBogotá\, Colombia\n\nLa siguiente información ha sido actualiza
+ da:\n\n*	El nombre cambió de CEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 10
+ :00 AM a DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 10:00
+  AM.\n*	La hora de inicio cambió de Sunday\, May 31\, 10:00 AM GMT-5 a Fr
+ iday\, May 29\, 10:00 AM GMT-5.\n\nVer evento <https://nam10.safelinks.pro
+ tection.outlook.com/?url=https%3A%2F%2Fluma.com%2F8f42sbw7&data=05%7C02%7C
+ eventosyproducciones%40universidadean.edu.co%7C24e5e8bb89b242c65c7608dea61
+ ba9fe%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130835251518673%7CUn
+ known%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW
+ 4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=341tzF1SFE1S0gK1
+ c0Dcrv610pY3P%2B3fENtHLffYioY%3D&reserved=0> 	\nHemos adjuntado un nuevo e
+ vento de calendario que debería actualizar automáticamente tu calendario
+ .\n\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fl
+ uma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C2
+ 4e5e8bb89b242c65c7608dea61ba9fe%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0
+ %7C639130835251547113%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYi
+ OiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C
+ %7C&sdata=VjGH5ETnsLboaJmFLH%2BGGWFy4unrESVET9vfJf2tnxo%3D&reserved=0> 	 <
+ https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com
+ %2Fios&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C24e5e
+ 8bb89b242c65c7608dea61ba9fe%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6
+ 39130835251571104%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIw
+ LjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&
+ sdata=%2B46idwKIJSMgsB8kbisY7F0hiwR6dks2zk%2BOMWFg888%3D&reserved=0> 	\n <
+ https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com
+ %2Fandroid&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C2
+ 4e5e8bb89b242c65c7608dea61ba9fe%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0
+ %7C639130835251594737%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYi
+ OiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C
+ %7C&sdata=lqFo%2FdSwE9Gx7GEziyXTOnojUmEfgZoS9AuYmY9lT5E%3D&reserved=0> 	\n
+  <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%
+ 2Flumahq&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C24e
+ 5e8bb89b242c65c7608dea61ba9fe%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7
+ C639130835251619163%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOi
+ IwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7
+ C&sdata=gl5XxphrPId2asMmtkx00y%2FP%2B3rQlszJ%2FcdCBHqzdkw%3D&reserved=0> 	
+ \n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Finst
+ agram.com%2Fluma_hq&data=05%7C02%7Ceventosyproducciones%40universidadean.e
+ du.co%7C24e5e8bb89b242c65c7608dea61ba9fe%7Cc06fb5591b684b84a14f47d0d837a5a
+ b%7C1%7C0%7C639130835251642651%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnR
+ ydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%
+ 7C0%7C%7C%7C&sdata=pQvOj3KyaY%2Fv0EbMesoTNx%2FdKwosyLpi6bwqF0H%2FWn4%3D&re
+ served=0> 	\n \nOrganiza tu evento con Luma ↗ <https://nam10.safelinks
+ .protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%3Demail
+ &data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C24e5e8bb89b
+ 242c65c7608dea61ba9fe%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391308
+ 35251665087%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMD
+ AwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=
+ WRGQqyt3toxxEwGmx381un8Q87O6%2FxKhQa%2FtET4aIGs%3D&reserved=0> 	\n \n <h
+ ttps://jpdm6py0.r.us-west-2.awstrack.me/I0/0101019dda766856-a48bed75-6089-
+ 4162-9778-209e4b7cd994-000000/NQSc7MjQEQhVTgbs2wQy3M4W_jQ=474>\n\nInformac
+ ión original de Outlook:\nOrganizador Outlook: Eventos Ean\nAsistentes re
+ queridos: EVENTOS Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: Falso\nS
+ ensibilidad: Normal\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:6b4e3698d4ceb471e2107c188cd521c4acb0e8bd@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T163000
+DTEND;TZID=America/Bogota:20260528T183000
+SUMMARY:CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 4:30 PM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130832922021119%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=RcPmN0l8SxJAiENsNEUcQOa77gZEib1BskoF%2BNJhRog%3D&reserved=0
+ > 	\n¡Tu evento está en línea!\nCEREMONIA DE GRADO COLECTIVO 28 DE MAYO
+  / 4:30 PM\n\n¡Felicidades! Ahora es hora de compartir tu página del eve
+ nto e invitar a tus invitados.\n<https://nam10.safelinks.protection.outloo
+ k.com/?url=https%3A%2F%2Fluma.com%2Fwp0xl8ab&data=05%7C02%7Ceventosyproduc
+ ciones%40universidadean.edu.co%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5
+ 591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130832922052799%7CUnknown%7CTWFpbG
+ Zsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoi
+ TWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e9%2BWv0bwKsBWIaPD5CW%2FwWWRAm
+ akL13dJZJ1hd3D7%2Bo%3D&reserved=0> \n <https://images.lumacdn.com/cdn-cgi/
+ image/format=auto\,fit=cover\,dpr=2\,anim=false\,background=white\,quality
+ =75\,width=160\,height=160/uploads/8b/97f9c825-21ed-484e-a919-f1684a399b8a
+ .png> 	28 may\, 16:30\nCEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 4:30 PM\n
+ Universidad Ean\nInvitar invitados <https://nam10.safelinks.protection.out
+ look.com/?url=https%3A%2F%2Fluma.com%2Fevent%2Fmanage%2Fevt-fzzHGCPD61KVlo
+ d&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C947818939c
+ bc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130
+ 832922418117%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuM
+ DAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata
+ =yvnmN2Y24Sn3RfbNS8mZtgAsI3FBboKaO6LpbYq4ERo%3D&reserved=0> 	\n\n\nCompart
+ e tu evento\n\n\nEl enlace público de tu evento es https://luma.com/wp0xl
+ 8ab <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flum
+ a.com%2Fwp0xl8ab&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.
+ co%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5ab%7
+ C1%7C0%7C639130832922471062%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydW
+ UsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0
+ %7C%7C%7C&sdata=kEdDyH9bDlTbuk6FHCri2OJABj9qMWmbwoQ0GXLP4sY%3D&reserved=0>
+  .\n\n\nPersonaliza tu evento\n\n\nActualiza la descripción del evento\, 
+ agrega preguntas de registro\, cambia la configuración de visibilidad y m
+ ás. Administrar evento ↗ <https://nam10.safelinks.protection.outlook.co
+ m/?url=https%3A%2F%2Fluma.com%2Fevent%2Fmanage%2Fevt-fzzHGCPD61KVlod&data=
+ 05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C947818939cbc4d3cf
+ 6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391308329225
+ 10885%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIs
+ IlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2kveqr
+ zcuNp6rgBpZe63NwnIZrczMkdJrgafNey9pxg%3D&reserved=0> \n\n\nVender entradas
+ \n\n\nConecta tu cuenta bancaria y empieza a vender entradas en 5 minutos.
+  Configurar entradas ↗ <https://nam10.safelinks.protection.outlook.com/?
+ url=https%3A%2F%2Fluma.com%2Fevent%2Fmanage%2Fevt-fzzHGCPD61KVlod%2Fregist
+ ration&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C94781
+ 8939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6
+ 39130832922540666%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIw
+ LjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&
+ sdata=MCBdCtxmedqyC5JXTzVpG6hbtuN0zeYlGqsKLIAPmwc%3D&reserved=0> \n\nDesca
+ rgar la App de Luma — Realiza cambios en tu evento\, visualiza\, gestion
+ a y comunícate con los invitados sin esfuerzo.\n <https://nam10.safelinks
+ .protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flum
+ a-delightful-events%2Fid1546150895&data=05%7C02%7Ceventosyproducciones%40u
+ niversidadean.edu.co%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84
+ a14f47d0d837a5ab%7C1%7C0%7C639130832922566143%7CUnknown%7CTWFpbGZsb3d8eyJF
+ bXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIl
+ dUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Isp7lQ8WM8ZU9YQImt8qv8S%2BHUPXC5DsBLuBBJ
+ O%2FTjs%3D&reserved=0> \n <https://nam10.safelinks.protection.outlook.com/
+ ?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.lum
+ a.mobile&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C947
+ 818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7
+ C639130832922600722%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOi
+ IwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7
+ C&sdata=7U1cFNrR1Q8ecuO81JzPhytnCndJtYc7XF6l8zj21Q8%3D&reserved=0> \n¿Tie
+ nes preguntas? No dudes en responder a este correo. ¡Feliz organización 
+ de eventos!\n\n <https://nam10.safelinks.protection.outlook.com/?url=https
+ %3A%2F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.
+ edu.co%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5
+ ab%7C1%7C0%7C639130832922639315%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOn
+ RydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D
+ %7C0%7C%7C%7C&sdata=d7FWWr%2FCOvG6dNTMQ2fgOXptSbCFfoevVafwpGcVU9c%3D&reser
+ ved=0> 	 <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%
+ 2Fluma.com%2Fios&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.
+ co%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5ab%7
+ C1%7C0%7C639130832922680505%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydW
+ UsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0
+ %7C%7C%7C&sdata=1B7x5UdYaraO%2FUR%2FPQim4dxHAechy4m6sZgyBaERGEQ%3D&reserve
+ d=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%
+ 2Fluma.com%2Fandroid&data=05%7C02%7Ceventosyproducciones%40universidadean.
+ edu.co%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5
+ ab%7C1%7C0%7C639130832922720859%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOn
+ RydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D
+ %7C0%7C%7C%7C&sdata=ZlagsbuMyFkhKgIVOb%2BM0dFo1ebCDa1f%2B5f%2F8ygClUo%3D&r
+ eserved=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%
+ 3A%2F%2Fx.com%2Flumahq&data=05%7C02%7Ceventosyproducciones%40universidadea
+ n.edu.co%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837
+ a5ab%7C1%7C0%7C639130832922755119%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGki
+ OnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%
+ 3D%7C0%7C%7C%7C&sdata=c19QoQubyUwcB02V3hUZ3tqKpYuBny01UfVpihF1iRI%3D&reser
+ ved=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Finstagram.com%2Fluma_hq&data=05%7C02%7Ceventosyproducciones%40universi
+ dadean.edu.co%7C947818939cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d
+ 0d837a5ab%7C1%7C0%7C639130832922780459%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1
+ hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyf
+ Q%3D%3D%7C0%7C%7C%7C&sdata=Dy2kETAHXup6Q4fbQrPu4otAKEceMd4r2TX4vu%2Bw9pc%3
+ D&reserved=0> 	\n \nOrganiza tu evento con Luma ↗ <https://nam10.safel
+ inks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%3De
+ mail&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C9478189
+ 39cbc4d3cf6c508dea61b1b41%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639
+ 130832922805199%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLj
+ AuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sd
+ ata=vH2Vsr7leoY6PrPYhLrPZgiRBdMYXbAqRjNtKPbCBzs%3D&reserved=0> 	\n \n <h
+ ttps://jpdm6py0.r.us-west-2.awstrack.me/I0/0101019dda72c2a6-622518f5-ff32-
+ 44b8-9282-a3f1964b43f6-000000/cMB2fReJ_ZSrXL_sCWHfZrsCZT4=474>\n\nInformac
+ ión original de Outlook:\nOrganizador Outlook: Eventos Ean\nAsistentes re
+ queridos: EVENTOS Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: Falso\nS
+ ensibilidad: Normal\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:ff22d3753b43a6cf73d6bfc4dfd6e633f13d1ec7@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T130000
+DTEND;TZID=America/Bogota:20260528T150000
+SUMMARY:DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 1:00 PM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C5ca888cd6b2f477efd6408dea61b4469%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130833481312181%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=qRSbYy0StcR4EcykwcL48xTpfntDbjRRW1JOXrbz%2Fas%3D&reserved=0
+ > 	\nDOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 1:00 PM\n
+ fue actualizado\n\nMAY	\n28	\njueves\, 28 de mayo\n13:00 - 15:00 GMT-5\n <
+ https://cdn.lu.ma/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=false\
+ ,background=white\,quality=75\,width=40\,height=40/misc/3k/95610a7f-2391-4
+ 002-9779-a1e9bfb7216c> 	\n<https://nam10.safelinks.protection.outlook.com/
+ ?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3DU
+ niversidad%2520Ean%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data=05%
+ 7C02%7Ceventosyproducciones%40universidadean.edu.co%7C5ca888cd6b2f477efd64
+ 08dea61b4469%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391308334813468
+ 10%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlA
+ iOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DaaIsX1x9
+ h1rL7aEqrmaRDDo1WNb4wNQUOtaABk3WTI%3D&reserved=0> \nUniversidad Ean ↗\nB
+ ogotá\, Colombia\n\nLa siguiente información ha sido actualizada:\n\n*	E
+ l nombre cambió de CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 1:00 PM a DO
+ BLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 1:00 PM.\n*	La h
+ ora de inicio cambió de Saturday\, May 30\, 1:00 PM GMT-5 a Thursday\, Ma
+ y 28\, 1:00 PM GMT-5.\n\nVer evento <https://nam10.safelinks.protection.ou
+ tlook.com/?url=https%3A%2F%2Fluma.com%2Ft9tqef3o&data=05%7C02%7Ceventosypr
+ oducciones%40universidadean.edu.co%7C5ca888cd6b2f477efd6408dea61b4469%7Cc0
+ 6fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130833481714895%7CUnknown%7CTW
+ FpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFO
+ IjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Aol%2B26J8fRcxKsAghjo2L3Vy
+ 5aS%2B50Z8zITji7b3BaU%3D&reserved=0> 	\nHemos adjuntado un nuevo evento de
+  calendario que debería actualizar automáticamente tu calendario.\n\n <h
+ ttps://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%
+ 2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C5ca888cd6
+ b2f477efd6408dea61b4469%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C63913
+ 0833481745194%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAu
+ MDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdat
+ a=f%2BF3ebPyXIDzhDAwNX7PEQUrpqcehirc%2Bjp9g7xiCt8%3D&reserved=0> 	 <https:
+ //nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fios
+ &data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C5ca888cd6b2
+ f477efd6408dea61b4469%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391308
+ 33481770987%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMD
+ AwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=
+ P7Y3XecmQGsizTSQnrJieDTHXFTxPLcbWuvO%2Fyv8rLU%3D&reserved=0> 	\n <https://
+ nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fandro
+ id&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C5ca888cd6
+ b2f477efd6408dea61b4469%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C63913
+ 0833481795944%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAu
+ MDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdat
+ a=lgwXqMM%2FhpxlGcLCNPCA4nFbGTqGH8Bj7jvGhBSX814%3D&reserved=0> 	\n <https:
+ //nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2Flumahq
+ &data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C5ca888cd6b2
+ f477efd6408dea61b4469%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391308
+ 33481823252%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMD
+ AwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=
+ fAH1kY7PoQTcrgCj010j6aO5FIp2zuwCNt7jvp%2FERfk%3D&reserved=0> 	\n <https://
+ nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Finstagram.com%2F
+ luma_hq&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C5ca8
+ 88cd6b2f477efd6408dea61b4469%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C
+ 639130833481847687%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiI
+ wLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C
+ &sdata=9Y%2FBWwCTfcCqRQyzMg%2FTftbaTr3tuZpppf806Q%2FmzM0%3D&reserved=0> 	\
+ n \nOrganiza tu evento con Luma ↗ <https://nam10.safelinks.protection.
+ outlook.com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%3Demail&data=05%7C0
+ 2%7Ceventosyproducciones%40universidadean.edu.co%7C5ca888cd6b2f477efd6408d
+ ea61b4469%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130833481871754%
+ 7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOi
+ JXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fB04H1zbsCPh
+ 599Uohvamjf%2FA%2Bh9eRnl3WMkMT%2FZBng%3D&reserved=0> 	\n \n <https://jpd
+ m6py0.r.us-west-2.awstrack.me/I0/0101019dda73d25e-e650cb61-d164-4dd4-83cb-
+ 6236f146f854-000000/0Du2wpN9fRGvq-H4useBw_AX8WI=474>\n\nInformación origi
+ nal de Outlook:\nOrganizador Outlook: Eventos Ean\nAsistentes requeridos: 
+ EVENTOS Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: Falso\nSensibilida
+ d: Normal\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:1f44613073ea0b07580fdfada9c3b7a354035539@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T093000
+DTEND;TZID=America/Bogota:20260528T113000
+SUMMARY:CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 9:30 AM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130832505889850%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=s3BweuugNvGC3qCTRhxlkPUBHDoD8VYdP75jw7TCh0M%3D&reserved=0> 
+ 	\n¡Tu evento está en línea!\nCEREMONIA DE GRADO COLECTIVO 28 DE MAYO /
+  9:30 AM\n\n¡Felicidades! Ahora es hora de compartir tu página del event
+ o e invitar a tus invitados.\n<https://nam10.safelinks.protection.outlook.
+ com/?url=https%3A%2F%2Fluma.com%2F1b1w5h2u&data=05%7C02%7Ceventosyproducci
+ ones%40universidadean.edu.co%7C1972eae49a5a45322e7b08dea61afeac%7Cc06fb559
+ 1b684b84a14f47d0d837a5ab%7C1%7C0%7C639130832505922178%7CUnknown%7CTWFpbGZs
+ b3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTW
+ FpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e%2BBB%2BwxTAd4oc6etd2EEXrxFzQz2
+ OGZdYa3sPo1yRwA%3D&reserved=0> \n <https://images.lumacdn.com/cdn-cgi/imag
+ e/format=auto\,fit=cover\,dpr=2\,anim=false\,background=white\,quality=75\
+ ,width=160\,height=160/uploads/8b/97f9c825-21ed-484e-a919-f1684a399b8a.png
+ > 	28 may\, 9:30\nCEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 9:30 AM\nUnive
+ rsidad Ean\nInvitar invitados <https://nam10.safelinks.protection.outlook.
+ com/?url=https%3A%2F%2Fluma.com%2Fevent%2Fmanage%2Fevt-oG7747VsB0LvYgV&dat
+ a=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C1972eae49a5a453
+ 22e7b08dea61afeac%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C63913083250
+ 5945082%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMC
+ IsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=JE4J
+ UOVDtAH7ADp8GN5mRScfNR0w7fRtUkIqKmlC0tg%3D&reserved=0> 	\n\n\nComparte tu 
+ evento\n\n\nEl enlace público de tu evento es https://luma.com/1b1w5h2u <
+ https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com
+ %2F1b1w5h2u&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C
+ 1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C
+ 0%7C639130832505967870%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlY
+ iOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7
+ C%7C&sdata=BO9IFur11vGZ2voj51mgWl%2FbKvNk6QAwhU53qartBgA%3D&reserved=0> .\
+ n\n\nPersonaliza tu evento\n\n\nActualiza la descripción del evento\, agr
+ ega preguntas de registro\, cambia la configuración de visibilidad y más
+ . Administrar evento ↗ <https://nam10.safelinks.protection.outlook.com/?
+ url=https%3A%2F%2Fluma.com%2Fevent%2Fmanage%2Fevt-oG7747VsB0LvYgV&data=05%
+ 7C02%7Ceventosyproducciones%40universidadean.edu.co%7C1972eae49a5a45322e7b
+ 08dea61afeac%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391308325059905
+ 71%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlA
+ iOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BShvFgMad
+ b2rsedidRdAucSzECsXHmqacmxjqWpEnQQ%3D&reserved=0> \n\n\nVender entradas\n\
+ n\nConecta tu cuenta bancaria y empieza a vender entradas en 5 minutos. Co
+ nfigurar entradas ↗ <https://nam10.safelinks.protection.outlook.com/?url
+ =https%3A%2F%2Fluma.com%2Fevent%2Fmanage%2Fevt-oG7747VsB0LvYgV%2Fregistrat
+ ion&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C1972eae4
+ 9a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391
+ 30832506012224%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjA
+ uMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sda
+ ta=X5JD7sy%2FWSBGdowABaJgpshidKh0QvgnlJ6mxWEzz0k%3D&reserved=0> \n\nDescar
+ gar la App de Luma — Realiza cambios en tu evento\, visualiza\, gestiona
+  y comunícate con los invitados sin esfuerzo.\n <https://nam10.safelinks.
+ protection.outlook.com/?url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fluma
+ -delightful-events%2Fid1546150895&data=05%7C02%7Ceventosyproducciones%40un
+ iversidadean.edu.co%7C1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a
+ 14f47d0d837a5ab%7C1%7C0%7C639130832506043031%7CUnknown%7CTWFpbGZsb3d8eyJFb
+ XB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIld
+ UIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SMLELPpFB3Ea1e8P%2Bq9%2Bo2bpInG%2FPM5UfUK
+ ocwRa%2FJY%3D&reserved=0> \n <https://nam10.safelinks.protection.outlook.c
+ om/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.
+ luma.mobile&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C
+ 1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C
+ 0%7C639130832506067172%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlY
+ iOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7
+ C%7C&sdata=y7qksOjAFiPsC7wvA9l1rXHswl%2FaIyPgoujBGRC%2BoPA%3D&reserved=0> 
+ \n¿Tienes preguntas? No dudes en responder a este correo. ¡Feliz organiz
+ ación de eventos!\n\n <https://nam10.safelinks.protection.outlook.com/?ur
+ l=https%3A%2F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universi
+ dadean.edu.co%7C1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f47d
+ 0d837a5ab%7C1%7C0%7C639130832506090172%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1
+ hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyf
+ Q%3D%3D%7C0%7C%7C%7C&sdata=UJFfJtRgW%2BRu0fsgvzKCLt6MXdKklM5KmJhwZga2aJo%3
+ D&reserved=0> 	 <https://nam10.safelinks.protection.outlook.com/?url=https
+ %3A%2F%2Fluma.com%2Fios&data=05%7C02%7Ceventosyproducciones%40universidade
+ an.edu.co%7C1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f47d0d83
+ 7a5ab%7C1%7C0%7C639130832506114172%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGk
+ iOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D
+ %3D%7C0%7C%7C%7C&sdata=XmOB8ZHUaIUYjpw1rORZB%2FG%2FwrDoSzM3BbwiyxHG3%2F8%3
+ D&reserved=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=htt
+ ps%3A%2F%2Fluma.com%2Fandroid&data=05%7C02%7Ceventosyproducciones%40univer
+ sidadean.edu.co%7C1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f4
+ 7d0d837a5ab%7C1%7C0%7C639130832506137882%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0e
+ U1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjo
+ yfQ%3D%3D%7C0%7C%7C%7C&sdata=mL6dnKKRVV1FfYt3ENTIhvVIrXbKXnYyE12ZEqSydiY%3
+ D&reserved=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=htt
+ ps%3A%2F%2Fx.com%2Flumahq&data=05%7C02%7Ceventosyproducciones%40universida
+ dean.edu.co%7C1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f47d0d
+ 837a5ab%7C1%7C0%7C639130832506161069%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hc
+ GkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%
+ 3D%3D%7C0%7C%7C%7C&sdata=lFfg90B2Ekg86JghofaFYP7n7spybEgHnkO0qCAnlT8%3D&re
+ served=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%3
+ A%2F%2Finstagram.com%2Fluma_hq&data=05%7C02%7Ceventosyproducciones%40unive
+ rsidadean.edu.co%7C1972eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f
+ 47d0d837a5ab%7C1%7C0%7C639130832506184914%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0
+ eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIj
+ oyfQ%3D%3D%7C0%7C%7C%7C&sdata=23aWdh0LoOH7WcxP6bZ30o9xTpZESBcI5NtPvKRLd%2F
+ M%3D&reserved=0> 	\n \nOrganiza tu evento con Luma ↗ <https://nam10.sa
+ felinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%
+ 3Demail&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C1972
+ eae49a5a45322e7b08dea61afeac%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C
+ 639130832506212459%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiI
+ wLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C
+ &sdata=kmLsKphFk4iuTIE%2FH36Azxd8dicLyDXPGrs6BgYObTI%3D&reserved=0> 	\n 
+ \n <https://jpdm6py0.r.us-west-2.awstrack.me/I0/0101019dda72059e-47050a6b-
+ 9469-4749-a1d2-17da7e848901-000000/Rm1MPZc15zvlbQxjVqnjIlPbhTc=474>\n\nInf
+ ormación original de Outlook:\nOrganizador Outlook: Eventos Ean\nAsistent
+ es requeridos: EVENTOS Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: Fal
+ so\nSensibilidad: Normal\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:3984382a110b07785209a6ed3c28d9371f4fbf26@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T150000
+DTEND;TZID=America/Bogota:20260529T170000
+SUMMARY:CEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 3:00 PM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C31a64215630c4f4653ee08dea6df5d5b%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639131676011589343%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=fUx3vl15gMdfhW7%2BgvYHbvtZF3wUg%2FLfCIqqlwhlD90%3D&reserved
+ =0> 	\nCEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 3:00 PM\nfue actualizado\
+ n\nMAY	\n29	\nviernes\, 29 de mayo\n15:00 - 17:00 GMT-5\n <https://cdn.lu.
+ ma/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=false\,background=whi
+ te\,quality=75\,width=40\,height=40/misc/3k/95610a7f-2391-4002-9779-a1e9bf
+ b7216c> 	\n<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3DUniversidad%2520
+ Ean%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data=05%7C02%7Ceventosy
+ producciones%40universidadean.edu.co%7C31a64215630c4f4653ee08dea6df5d5b%7C
+ c06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131676011624622%7CUnknown%7C
+ TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIk
+ FOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aEoJqKqo3bSlGxKIwBy7ejSd
+ dtDBwpNHQw5hHbw1psQ%3D&reserved=0> \nUniversidad Ean ↗\nBogotá\, Colomb
+ ia\n\nLa siguiente información ha sido actualizada:\n\n*	El nombre cambi
+ ó de CEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 3:00 PM a CEREMONIA DE GRA
+ DO COLECTIVO 29 DE MAYO / 3:00 PM.\n\nVer evento <https://nam10.safelinks.
+ protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fyq66uetf&data=05%7C02
+ %7Ceventosyproducciones%40universidadean.edu.co%7C31a64215630c4f4653ee08de
+ a6df5d5b%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131676011648192%7
+ CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJ
+ XaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ct7O7ewrQ05BF
+ ot3VZMmybHzYngkBFYWuFktL17Sl7c%3D&reserved=0> 	\nHemos adjuntado un nuevo 
+ evento de calendario que debería actualizar automáticamente tu calendari
+ o.\n\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2F
+ luma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C
+ 31a64215630c4f4653ee08dea6df5d5b%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C
+ 0%7C639131676011671485%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlY
+ iOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7
+ C%7C&sdata=QIKuihRCgIHixH%2B2O3gSbQRrlHVU3yNkI4%2BLsTKjDTk%3D&reserved=0> 
+ 	 <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.
+ com%2Fios%3Futm_source%3Demail-footer&data=05%7C02%7Ceventosyproducciones%
+ 40universidadean.edu.co%7C31a64215630c4f4653ee08dea6df5d5b%7Cc06fb5591b684
+ b84a14f47d0d837a5ab%7C1%7C0%7C639131676011694839%7CUnknown%7CTWFpbGZsb3d8e
+ yJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCI
+ sIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Gij756ntEAD4Cp9963c%2BTLHpDZOAeg7ebmo
+ BN%2FcI1N4%3D&reserved=0> 	\n <https://nam10.safelinks.protection.outlook.
+ com/?url=https%3A%2F%2Fluma.com%2Fandroid%3Futm_source%3Demail-footer&data
+ =05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C31a64215630c4f46
+ 53ee08dea6df5d5b%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131676011
+ 718141%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCI
+ sIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dpsB%
+ 2FSFLoS8dyT%2BuxUi%2Biv07argks6AYiD0JFvPaChs%3D&reserved=0> 	\n <https://n
+ am10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2Flumahq&da
+ ta=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C31a64215630c4f
+ 4653ee08dea6df5d5b%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391316760
+ 11741522%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwM
+ CIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=j0c
+ %2BgO4pQAgYiGykCgwnXvSX9fCKBDiZzv%2Bslszhjj4%3D&reserved=0> 	\n <https://n
+ am10.safelinks.protection.outlook.com/?url=https%3A%2F%2Finstagram.com%2Fl
+ uma_hq&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C31a64
+ 215630c4f4653ee08dea6df5d5b%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6
+ 39131676011767497%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIw
+ LjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&
+ sdata=LYM5r2iuzEPE%2F7cpGcfC9zjZTfws1ASgV7sHFd44aZY%3D&reserved=0> 	\n \
+ nOrganiza tu evento con Luma ↗ <https://nam10.safelinks.protection.outlo
+ ok.com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%3Demail&data=05%7C02%7Ce
+ ventosyproducciones%40universidadean.edu.co%7C31a64215630c4f4653ee08dea6df
+ 5d5b%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131676011790845%7CUnk
+ nown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4
+ zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hPwRo3zAd%2BGs9%2
+ FH03BdI9KLj9Vz8sK%2BWEWGW2L2NtLo%3D&reserved=0> 	\n \n <https://jpdm6py0
+ .r.us-west-2.awstrack.me/I0/0101019ddf78f4bb-ea74a5a3-15c3-4ed4-9130-ee861
+ f19449b-000000/fwgwKCdthVQI4eiy4wWs0uG-x5U=474>\n\nInformación original d
+ e Outlook:\nOrganizador Outlook: Eventos Ean\nAsistentes requeridos: EVENT
+ OS Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: No
+ rmal\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:c8378b54f052849954ce30df3d14eff1ae66f5aa@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260527T150000
+DTEND;TZID=America/Bogota:20260527T170000
+SUMMARY:DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 3:00 PM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7Ce6125a416ec4429b4dfb08dea6df3afd%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639131675185426738%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=SYQUFoUKUsFXXCNMeL1i95gN4FW7aD2StpNoCtfEH%2FU%3D&reserved=0
+ > 	\nDOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 3:00 PM\n
+ fue actualizado\n\nMAY	\n27	\nmiércoles\, 27 de mayo\n15:00 - 17:00 GMT-5
+ \n <https://cdn.lu.ma/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=fa
+ lse\,background=white\,quality=75\,width=40\,height=40/misc/3k/95610a7f-23
+ 91-4002-9779-a1e9bfb7216c> 	\n<https://nam10.safelinks.protection.outlook.
+ com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query
+ %3DUniversidad%2520Ean%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data
+ =05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7Ce6125a416ec4429b
+ 4dfb08dea6df3afd%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131675185
+ 463902%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCI
+ sIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TFZ2v
+ ThwgoRBUJ0a0pYhT1ihRaCq7qx%2B2cunSCXBQQQ%3D&reserved=0> \nUniversidad Ean 
+ ↗\nBogotá\, Colombia\n\nLa siguiente información ha sido actualizada:\
+ n\n*	El nombre cambió de DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 2
+ 9 DE MAYO / 3:00 PM a DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 27 DE
+  MAYO / 3:00 PM.\n\nVer evento <https://nam10.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fluma.com%2Ffjsrfcgj&data=05%7C02%7Ceventosyproducc
+ iones%40universidadean.edu.co%7Ce6125a416ec4429b4dfb08dea6df3afd%7Cc06fb55
+ 91b684b84a14f47d0d837a5ab%7C1%7C0%7C639131675185515848%7CUnknown%7CTWFpbGZ
+ sb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiT
+ WFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ZbSi9oL6kRi1hwvM7VpkjKxAYWh0tJ5
+ VhK118xNh%2FtU%3D&reserved=0> 	\nHemos adjuntado un nuevo evento de calend
+ ario que debería actualizar automáticamente tu calendario.\n\n <https://
+ nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2F&data
+ =05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7Ce6125a416ec4429b
+ 4dfb08dea6df3afd%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131675185
+ 575136%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCI
+ sIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GBbl3
+ O7ju2uj0TgGb%2BEnoK1z%2Fo8wZ8mGrmCZ1O0jhVo%3D&reserved=0> 	 <https://nam10
+ .safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fios%3Futm_
+ source%3Demail-footer&data=05%7C02%7Ceventosyproducciones%40universidadean
+ .edu.co%7Ce6125a416ec4429b4dfb08dea6df3afd%7Cc06fb5591b684b84a14f47d0d837a
+ 5ab%7C1%7C0%7C639131675185635257%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiO
+ nRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3
+ D%7C0%7C%7C%7C&sdata=CDeTDot9L42ODGTgcnKEy4NoZ%2Bm7GHnUo9tUd2XKYIU%3D&rese
+ rved=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%
+ 2F%2Fluma.com%2Fandroid%3Futm_source%3Demail-footer&data=05%7C02%7Ceventos
+ yproducciones%40universidadean.edu.co%7Ce6125a416ec4429b4dfb08dea6df3afd%7
+ Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131675185697767%7CUnknown%7
+ CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsI
+ kFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vSUJOTOABo4iAcUYGdpPi17
+ lpGoRm%2BFOJmWauCFVQrY%3D&reserved=0> 	\n <https://nam10.safelinks.protect
+ ion.outlook.com/?url=https%3A%2F%2Fx.com%2Flumahq&data=05%7C02%7Ceventosyp
+ roducciones%40universidadean.edu.co%7Ce6125a416ec4429b4dfb08dea6df3afd%7Cc
+ 06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131675185731779%7CUnknown%7CT
+ WFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkF
+ OIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tErbgecfzunwvskfF3h1YLN0z
+ uM13P84%2BfScnhqQMDg%3D&reserved=0> 	\n <https://nam10.safelinks.protectio
+ n.outlook.com/?url=https%3A%2F%2Finstagram.com%2Fluma_hq&data=05%7C02%7Cev
+ entosyproducciones%40universidadean.edu.co%7Ce6125a416ec4429b4dfb08dea6df3
+ afd%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639131675185763229%7CUnkn
+ own%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4z
+ MiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=t4KzTYdYIB8x9fBg9H
+ TuNnKGq49m2YXomyOMp4cLcG4%3D&reserved=0> 	\n \nOrganiza tu evento con Lu
+ ma ↗ <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2F
+ luma.com%2Fcreate%3Fref%3Demail&data=05%7C02%7Ceventosyproducciones%40univ
+ ersidadean.edu.co%7Ce6125a416ec4429b4dfb08dea6df3afd%7Cc06fb5591b684b84a14
+ f47d0d837a5ab%7C1%7C0%7C639131675185800251%7CUnknown%7CTWFpbGZsb3d8eyJFbXB
+ 0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUI
+ joyfQ%3D%3D%7C0%7C%7C%7C&sdata=4tAc5PHWyUL4VYFUCjLHTmtt1F2sQHIGip80c4ZY1Yk
+ %3D&reserved=0> 	\n \n <https://jpdm6py0.r.us-west-2.awstrack.me/I0/0101
+ 019ddf7815b8-d7d8df7a-5c26-40d1-90ce-839c2fc62d71-000000/mR3dc_MAZfieDTXwZ
+ 0fKpPTTtTE=474>\n\nInformación original de Outlook:\nOrganizador Outlook:
+  Eventos Ean\nAsistentes requeridos: EVENTOS Y PRODUCCIONES EAN\nPrioridad
+ : Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 1 (TENTATIVE
+ )\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe30e00fc0f121de93fac91aec24356e146d0bb@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T100000
+DTEND;TZID=America/Bogota:20260529T120000
+SUMMARY:CEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 10:00 AM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C3e6aad0db2b4492e3aca08dea6190561%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130823847334976%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=%2Bz41l6tCnYrbxDv26zK0v18arXojVqD655fvfDbPKcQ%3D&reserved=0
+ > 	\nCEREMONIA DE GRADO COLECTIVO 29 DE MAYO / 10:00 AM\nfue actualizado\n
+ \nMAY	\n29	\nviernes\, 29 de mayo\n10:00 - 12:00 GMT-5\n <https://cdn.lu.m
+ a/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=false\,background=whit
+ e\,quality=75\,width=40\,height=40/misc/3k/95610a7f-2391-4002-9779-a1e9bfb
+ 7216c> 	\n<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F
+ %2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3DUniversidad%2520E
+ an%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data=05%7C02%7Ceventosyp
+ roducciones%40universidadean.edu.co%7C3e6aad0db2b4492e3aca08dea6190561%7Cc
+ 06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130823847397026%7CUnknown%7CT
+ WFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkF
+ OIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rhhFOeBx1N7JHGdsRVWNm9gLK
+ 863YXDkWSd5ZKn%2B98k%3D&reserved=0> \nUniversidad Ean ↗\nBogotá\, Colom
+ bia\n\nLa siguiente información ha sido actualizada:\n\n*	El nombre cambi
+ ó de CEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 3:00 PM a CEREMONIA DE GRA
+ DO COLECTIVO 29 DE MAYO / 10:00 AM.\n\nVer evento <https://nam10.safelinks
+ .protection.outlook.com/?url=https%3A%2F%2Fluma.com%2F9e4hiwst&data=05%7C0
+ 2%7Ceventosyproducciones%40universidadean.edu.co%7C3e6aad0db2b4492e3aca08d
+ ea6190561%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130823847832747%
+ 7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOi
+ JXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gOTUHSfbt%2F
+ 4RdCsPofY6iJJOLYre5KQCSrOSVvDxiIY%3D&reserved=0> 	\nHemos adjuntado un nue
+ vo evento de calendario que debería actualizar automáticamente tu calend
+ ario.\n\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F
+ %2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co
+ %7C3e6aad0db2b4492e3aca08dea6190561%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1
+ %7C0%7C639130823847907246%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUs
+ IlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7
+ C%7C%7C&sdata=EnFOFsF59t85eVLS2MipZIB4xvYA2USK7wiEYuvBBEs%3D&reserved=0> 	
+  <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.c
+ om%2Fios&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C3e6
+ aad0db2b4492e3aca08dea6190561%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7
+ C639130823847972475%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOi
+ IwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7
+ C&sdata=Mgfiay5cE4SB7uc9hGZFauq4x2mRLobzKz8khebHJ60%3D&reserved=0> 	\n <ht
+ tps://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2
+ Fandroid&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C3e6
+ aad0db2b4492e3aca08dea6190561%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7
+ C639130823848043109%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOi
+ IwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7
+ C&sdata=lYMgQuKIDVxqH9LgRpfxvaQbIj8ioV5JF%2B9QtgQ6tg8%3D&reserved=0> 	\n <
+ https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2F
+ lumahq&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7C3e6aa
+ d0db2b4492e3aca08dea6190561%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6
+ 39130823848118842%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIw
+ LjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&
+ sdata=EfoE41PID7DdckztkO%2BcmUr%2FSTqWNfAbdPIraxm1kTA%3D&reserved=0> 	\n <
+ https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Finstagra
+ m.com%2Fluma_hq&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C3e6aad0db2b4492e3aca08dea6190561%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130823848204116%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=BVqxgmurW6PHrzYuYypdUYvqREKh87kSmkadAlkynLg%3D&reserved=0> 
+ 	\n \nOrganiza tu evento con Luma ↗ <https://nam10.safelinks.protectio
+ n.outlook.com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%3Demail&data=05%7
+ C02%7Ceventosyproducciones%40universidadean.edu.co%7C3e6aad0db2b4492e3aca0
+ 8dea6190561%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C63913082384826650
+ 4%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAi
+ OiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RSM0a5k5sG
+ hAXaFwBQEDXGJFyRFP1qfa5oalKlBpQ1c%3D&reserved=0> 	\n \n <https://jpdm6py
+ 0.r.us-west-2.awstrack.me/I0/0101019dda6517cf-39b3a84e-42d1-4df3-a86e-81ab
+ 066ae5bf-000000/XEH3-JXAAIyPvCJUFEX1U3l7beQ=474>\n\nInformación original 
+ de Outlook:\nOrganizador Outlook: Eventos Ean\nAsistentes requeridos: EVEN
+ TOS Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: N
+ ormal\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:45125221d62eb4f21ff7491ba7e0ed2121e2ec19@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T163000
+DTEND;TZID=America/Bogota:20260528T183000
+SUMMARY:DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 4:30 PM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C82e8936ec87745d77ae808dea61b94cd%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130835073070348%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=iT%2BQXG34tGbRR4nj5gNvQJ2TiiZ4xwTc16wh7SSqvQg%3D&reserved=0
+ > 	\nDOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 4:30 PM\n
+ fue actualizado\n\nMAY	\n28	\njueves\, 28 de mayo\n16:30 - 18:30 GMT-5\n <
+ https://cdn.lu.ma/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=false\
+ ,background=white\,quality=75\,width=40\,height=40/misc/3k/95610a7f-2391-4
+ 002-9779-a1e9bfb7216c> 	\n<https://nam10.safelinks.protection.outlook.com/
+ ?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3DU
+ niversidad%2520Ean%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data=05%
+ 7C02%7Ceventosyproducciones%40universidadean.edu.co%7C82e8936ec87745d77ae8
+ 08dea61b94cd%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6391308350731125
+ 53%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlA
+ iOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DeQppFtN1
+ bG33HM5H5t3LqZjqneGXu5H8XlaArq4Zvs%3D&reserved=0> \nUniversidad Ean ↗\nB
+ ogotá\, Colombia\n\nLa siguiente información ha sido actualizada:\n\n*	E
+ l nombre cambió de CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 4:30 PM a DO
+ BLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 4:30 PM.\n\nVer 
+ evento <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2F
+ luma.com%2Fllt2w5sk&data=05%7C02%7Ceventosyproducciones%40universidadean.e
+ du.co%7C82e8936ec87745d77ae808dea61b94cd%7Cc06fb5591b684b84a14f47d0d837a5a
+ b%7C1%7C0%7C639130835073150597%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnR
+ ydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%
+ 7C0%7C%7C%7C&sdata=Z09Nh%2FIvG3wYdgNysAN%2FAAmstehBq5o0ycWCqZiZd1U%3D&rese
+ rved=0> 	\nHemos adjuntado un nuevo evento de calendario que debería actu
+ alizar automáticamente tu calendario.\n\n <https://nam10.safelinks.protec
+ tion.outlook.com/?url=https%3A%2F%2Fluma.com%2F&data=05%7C02%7Ceventosypro
+ ducciones%40universidadean.edu.co%7C82e8936ec87745d77ae808dea61b94cd%7Cc06
+ fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130835073175809%7CUnknown%7CTWF
+ pbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOI
+ joiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=I6eL4S%2B0SnJV3lcWOmbZcV3oq
+ Qu2Xy20uWKPOnCnDhQ%3D&reserved=0> 	 <https://nam10.safelinks.protection.ou
+ tlook.com/?url=https%3A%2F%2Fluma.com%2Fios&data=05%7C02%7Ceventosyproducc
+ iones%40universidadean.edu.co%7C82e8936ec87745d77ae808dea61b94cd%7Cc06fb55
+ 91b684b84a14f47d0d837a5ab%7C1%7C0%7C639130835073198906%7CUnknown%7CTWFpbGZ
+ sb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiT
+ WFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=r%2BXUdSXcZo9fM4bmKhfQaHG6nkm38
+ 0QvRzgilH5ud2w%3D&reserved=0> 	\n <https://nam10.safelinks.protection.outl
+ ook.com/?url=https%3A%2F%2Fluma.com%2Fandroid&data=05%7C02%7Ceventosyprodu
+ cciones%40universidadean.edu.co%7C82e8936ec87745d77ae808dea61b94cd%7Cc06fb
+ 5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130835073222996%7CUnknown%7CTWFpb
+ GZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjo
+ iTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6aqvUMAGAkjIhAQ6R3GD8kZmhq4DS
+ TYoySaq5LNYoUM%3D&reserved=0> 	\n <https://nam10.safelinks.protection.outl
+ ook.com/?url=https%3A%2F%2Fx.com%2Flumahq&data=05%7C02%7Ceventosyproduccio
+ nes%40universidadean.edu.co%7C82e8936ec87745d77ae808dea61b94cd%7Cc06fb5591
+ b684b84a14f47d0d837a5ab%7C1%7C0%7C639130835073245702%7CUnknown%7CTWFpbGZsb
+ 3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWF
+ pbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oN4NbP%2FclWXh5SJUJZMM6eeoDGJFw4K
+ 9WBOlnvazhKY%3D&reserved=0> 	\n <https://nam10.safelinks.protection.outloo
+ k.com/?url=https%3A%2F%2Finstagram.com%2Fluma_hq&data=05%7C02%7Ceventosypr
+ oducciones%40universidadean.edu.co%7C82e8936ec87745d77ae808dea61b94cd%7Cc0
+ 6fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130835073267740%7CUnknown%7CTW
+ FpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFO
+ IjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gRv3eOYwWl8tBcj0y1M3lItadQ
+ 1mMm4UgbsuF7t2iLQ%3D&reserved=0> 	\n \nOrganiza tu evento con Luma ↗ <
+ https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com
+ %2Fcreate%3Fref%3Demail&data=05%7C02%7Ceventosyproducciones%40universidade
+ an.edu.co%7C82e8936ec87745d77ae808dea61b94cd%7Cc06fb5591b684b84a14f47d0d83
+ 7a5ab%7C1%7C0%7C639130835073290115%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGk
+ iOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D
+ %3D%7C0%7C%7C%7C&sdata=4fmq2lqSGOTwBlXfmrWmTgEkAOtNwIHa%2F4NvAD6uHRo%3D&re
+ served=0> 	\n \n <https://jpdm6py0.r.us-west-2.awstrack.me/I0/0101019dda
+ 75df87-a03764de-e464-4ca2-833f-d2f3d5032278-000000/M33_C5W3RlzHz5jUDbEyZkS
+ W1dc=474>\n\nInformación original de Outlook:\nOrganizador Outlook: Event
+ os Ean\nAsistentes requeridos: EVENTOS Y PRODUCCIONES EAN\nPrioridad: Norm
+ al\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 1 (TENTATIVE)\nRec
+ ordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:06388b16e6165fd80a4eed5844f11e9b4add4729@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T130000
+DTEND;TZID=America/Bogota:20260528T150000
+SUMMARY:CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 1:00 PM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7Cce42240f3ece401c39f708dea6186cad%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130821348048154%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=NTSRUASMrK%2FM4B6avz7r%2BSzRX60QMgMmtOQOBCyoIEQ%3D&reserved
+ =0> 	\nCEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 1:00 PM\nfue actualizado\
+ n\nMAY	\n28	\njueves\, 28 de mayo\n13:00 - 15:00 GMT-5\n <https://cdn.lu.m
+ a/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=false\,background=whit
+ e\,quality=75\,width=40\,height=40/misc/3k/95610a7f-2391-4002-9779-a1e9bfb
+ 7216c> 	\n<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F
+ %2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3DUniversidad%2520E
+ an%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data=05%7C02%7Ceventosyp
+ roducciones%40universidadean.edu.co%7Cce42240f3ece401c39f708dea6186cad%7Cc
+ 06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130821348084761%7CUnknown%7CT
+ WFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkF
+ OIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1SbVahB0RcZGr5Dl5HnNP2Fq4
+ AHy9i9QlbOpOf5UGhY%3D&reserved=0> \nUniversidad Ean ↗\nBogotá\, Colombi
+ a\n\nLa siguiente información ha sido actualizada:\n\n*	El nombre cambió
+  de CEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 3:00 PM a CEREMONIA DE GRADO
+  COLECTIVO 28 DE MAYO / 1:00 PM.\n\nVer evento <https://nam10.safelinks.pr
+ otection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fz0dcgxxl&data=05%7C02%7
+ Ceventosyproducciones%40universidadean.edu.co%7Cce42240f3ece401c39f708dea6
+ 186cad%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130821348122802%7CU
+ nknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXa
+ W4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hiAp9vCZwjhSw5k
+ mhdgl6IJTTbTYqPI9fa9vdMa5S14%3D&reserved=0> 	\nHemos adjuntado un nuevo ev
+ ento de calendario que debería actualizar automáticamente tu calendario.
+ \n\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flu
+ ma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7Cce
+ 42240f3ece401c39f708dea6186cad%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%
+ 7C639130821348160035%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiO
+ iIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%
+ 7C&sdata=u8sPfZ3qLPZU5poCKGHTFca7Dy%2F51v%2F0jU44y%2FzqflY%3D&reserved=0> 
+ 	 <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fluma.
+ com%2Fios&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7Cce
+ 42240f3ece401c39f708dea6186cad%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%
+ 7C639130821348185646%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiO
+ iIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%
+ 7C&sdata=47B%2FF4%2Bc6coV1wWey%2BPQYurmiB39zuN4et9kN39kAn8%3D&reserved=0> 
+ 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flum
+ a.com%2Fandroid&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7Cce42240f3ece401c39f708dea6186cad%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130821348400540%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=Z0%2BnCCJSEffCM4Jdo55I%2BTmLEnRonIIOfMVTyjY7%2F1U%3D&reserv
+ ed=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F
+ %2Fx.com%2Flumahq&data=05%7C02%7Ceventosyproducciones%40universidadean.edu
+ .co%7Cce42240f3ece401c39f708dea6186cad%7Cc06fb5591b684b84a14f47d0d837a5ab%
+ 7C1%7C0%7C639130821348434433%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRyd
+ WUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C
+ 0%7C%7C%7C&sdata=SBzJJycOa011rSy8Uh6oGEZyG0yOzfzTHPj2nFs1X40%3D&reserved=0
+ > 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fi
+ nstagram.com%2Fluma_hq&data=05%7C02%7Ceventosyproducciones%40universidadea
+ n.edu.co%7Cce42240f3ece401c39f708dea6186cad%7Cc06fb5591b684b84a14f47d0d837
+ a5ab%7C1%7C0%7C639130821348461550%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGki
+ OnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%
+ 3D%7C0%7C%7C%7C&sdata=0MIF03gdOuNj0lih%2B0wIflPwXOCktqhYxd43fVQXqPI%3D&res
+ erved=0> 	\n \nOrganiza tu evento con Luma ↗ <https://nam10.safelinks.
+ protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%3Demail&
+ data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7Cce42240f3ece
+ 401c39f708dea6186cad%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C63913082
+ 1348486653%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDA
+ wMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=D
+ x%2F9IF0lUNw0vSEOTXDyjM6w67qv8oZ6Xxc62uMb8vQ%3D&reserved=0> 	\n \n <http
+ s://jpdm6py0.r.us-west-2.awstrack.me/I0/0101019dda6130f5-5f8dcdfe-a1f1-4a0
+ e-8799-7fba862d8842-000000/Q5-bnSHdW4lAQjxxe0iH99okhUY=474>\n\nInformació
+ n original de Outlook:\nOrganizador Outlook: Eventos Ean\nAsistentes reque
+ ridos: EVENTOS Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: Falso\nSens
+ ibilidad: Normal\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d548093c9d27c787612dd2e67dc345c717bf92@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T093000
+DTEND;TZID=America/Bogota:20260528T113000
+SUMMARY:DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 9:30 AM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7C26fe37bb1903448e065808dea61b7636%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130834371208441%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=6Jmm%2FSts36EOdLDJG9hqRKttjrcv0HQnJqpn1crmvmI%3D&reserved=0
+ > 	\nDOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 9:30 AM\n
+ fue actualizado\n\nMAY	\n28	\njueves\, 28 de mayo\n9:30 - 11:30 GMT-5\n <h
+ ttps://cdn.lu.ma/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=false\,
+ background=white\,quality=75\,width=40\,height=40/misc/3k/95610a7f-2391-40
+ 02-9779-a1e9bfb7216c> 	\n<https://nam10.safelinks.protection.outlook.com/?
+ url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3DUn
+ iversidad%2520Ean%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data=05%7
+ C02%7Ceventosyproducciones%40universidadean.edu.co%7C26fe37bb1903448e06580
+ 8dea61b7636%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C63913083437125103
+ 4%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAi
+ OiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BTlGuXee
+ h%2Fv33zynZDJWUKJS3ysF1VBuS9B4UExOIgI%3D&reserved=0> \nUniversidad Ean ↗
+ \nBogotá\, Colombia\n\nLa siguiente información ha sido actualizada:\n\n
+ *	El nombre cambió de CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 9:30 AM a
+  DOBLE TITULACIÓN CEREMONIA DE GRADO COLECTIVO 28 DE MAYO / 9:30 AM.\n\nV
+ er evento <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F
+ %2Fluma.com%2Ffzn2av6l&data=05%7C02%7Ceventosyproducciones%40universidadea
+ n.edu.co%7C26fe37bb1903448e065808dea61b7636%7Cc06fb5591b684b84a14f47d0d837
+ a5ab%7C1%7C0%7C639130834371284961%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGki
+ OnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%
+ 3D%7C0%7C%7C%7C&sdata=MI7YgSiaawAFDvSLso%2F3u0Jw5UUKqfhVpfMIghfkYVc%3D&res
+ erved=0> 	\nHemos adjuntado un nuevo evento de calendario que debería act
+ ualizar automáticamente tu calendario.\n\n <https://nam10.safelinks.prote
+ ction.outlook.com/?url=https%3A%2F%2Fluma.com%2F&data=05%7C02%7Ceventosypr
+ oducciones%40universidadean.edu.co%7C26fe37bb1903448e065808dea61b7636%7Cc0
+ 6fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130834371314405%7CUnknown%7CTW
+ FpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFO
+ IjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Fntc8l3zQFfLjeCEgftfqus%2F
+ RTRIbUrYMRG1M86q9V8%3D&reserved=0> 	 <https://nam10.safelinks.protection.o
+ utlook.com/?url=https%3A%2F%2Fluma.com%2Fios&data=05%7C02%7Ceventosyproduc
+ ciones%40universidadean.edu.co%7C26fe37bb1903448e065808dea61b7636%7Cc06fb5
+ 591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130834371338314%7CUnknown%7CTWFpbG
+ Zsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoi
+ TWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=saOiNDGethvDqmAMlKaEBtuoc3AcLk
+ 0Hg04WimAuZjk%3D&reserved=0> 	\n <https://nam10.safelinks.protection.outlo
+ ok.com/?url=https%3A%2F%2Fluma.com%2Fandroid&data=05%7C02%7Ceventosyproduc
+ ciones%40universidadean.edu.co%7C26fe37bb1903448e065808dea61b7636%7Cc06fb5
+ 591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130834371364737%7CUnknown%7CTWFpbG
+ Zsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoi
+ TWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RDCoqZGgeZTc5k1mH5M4G0dFA8FH1e
+ %2Bif2olQcqK33E%3D&reserved=0> 	\n <https://nam10.safelinks.protection.out
+ look.com/?url=https%3A%2F%2Fx.com%2Flumahq&data=05%7C02%7Ceventosyproducci
+ ones%40universidadean.edu.co%7C26fe37bb1903448e065808dea61b7636%7Cc06fb559
+ 1b684b84a14f47d0d837a5ab%7C1%7C0%7C639130834371394657%7CUnknown%7CTWFpbGZs
+ b3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTW
+ FpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=D1hwFxJj3wrdb1Uh5afjyYskefqtKCZW
+ F%2FzVxiseX3s%3D&reserved=0> 	\n <https://nam10.safelinks.protection.outlo
+ ok.com/?url=https%3A%2F%2Finstagram.com%2Fluma_hq&data=05%7C02%7Ceventosyp
+ roducciones%40universidadean.edu.co%7C26fe37bb1903448e065808dea61b7636%7Cc
+ 06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130834371430886%7CUnknown%7CT
+ WFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkF
+ OIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KlItWvQ1G6S8OVcb8dQ%2BK7E
+ nCuipeZrRUY44I5lILqw%3D&reserved=0> 	\n \nOrganiza tu evento con Luma 
+ ↗ <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flum
+ a.com%2Fcreate%3Fref%3Demail&data=05%7C02%7Ceventosyproducciones%40univers
+ idadean.edu.co%7C26fe37bb1903448e065808dea61b7636%7Cc06fb5591b684b84a14f47
+ d0d837a5ab%7C1%7C0%7C639130834371462293%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU
+ 1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoy
+ fQ%3D%3D%7C0%7C%7C%7C&sdata=WfMzSOjGhalcXVMcXeC3zw9UaqnJhh56B2inS7BYI1U%3D
+ &reserved=0> 	\n \n <https://jpdm6py0.r.us-west-2.awstrack.me/I0/0101019
+ dda75157e-b159933c-0afc-4493-910f-b6d03d02c4b8-000000/Huj4vOWeaW_O6pEQTUjE
+ VQXQwsc=474>\n\nInformación original de Outlook:\nOrganizador Outlook: Ev
+ entos Ean\nAsistentes requeridos: EVENTOS Y PRODUCCIONES EAN\nPrioridad: N
+ ormal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 1 (TENTATIVE)\n
+ Recordatorio: Falso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:0721997a596ad91dbbe627b6e8d170faff59b084@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260527T150000
+DTEND;TZID=America/Bogota:20260527T170000
+SUMMARY:CEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 3:00 PM
+LOCATION:Universidad Ean\, Cra. 11 #78 - 47\, Bogotá\, Colombia
+DESCRIPTION:<https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.c
+ o%7Cc4be3e8b5b5f49b6e98408dea6160be0%7Cc06fb5591b684b84a14f47d0d837a5ab%7C
+ 1%7C0%7C639130811129555468%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWU
+ sIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%
+ 7C%7C%7C&sdata=uHSUUmjlukB7ndNxf4N3%2FTaHiz04dypExEriThypbDM%3D&reserved=0
+ > 	\nCEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 3:00 PM\nfue actualizado\n\
+ nMAY	\n27	\nmiércoles\, 27 de mayo\n15:00 - 17:00 GMT-5\n <https://cdn.lu
+ .ma/cdn-cgi/image/format=auto\,fit=cover\,dpr=2\,anim=false\,background=wh
+ ite\,quality=75\,width=40\,height=40/misc/3k/95610a7f-2391-4002-9779-a1e9b
+ fb7216c> 	\n<https://nam10.safelinks.protection.outlook.com/?url=https%3A%
+ 2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3DUniversidad%252
+ 0Ean%26query_place_id%3DChIJzeAHNkOaP44RIT8g508BSX8&data=05%7C02%7Ceventos
+ yproducciones%40universidadean.edu.co%7Cc4be3e8b5b5f49b6e98408dea6160be0%7
+ Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C639130811129608406%7CUnknown%7
+ CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsI
+ kFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bqyQTquN0emi6hfdO1GevsQ
+ GvESE%2B66YEQmVeRwZ9yo%3D&reserved=0> \nUniversidad Ean ↗\nBogotá\, Col
+ ombia\n\nLa siguiente información ha sido actualizada:\n\n*	El nombre cam
+ bió de CEREMONIA DE GRADO COLECTIVO 27 DE MAYO / 10:00 AM a CEREMONIA DE 
+ GRADO COLECTIVO 27 DE MAYO / 3:00 PM.\n\nVer evento <https://nam10.safelin
+ ks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2F482i9xno&data=05%7
+ C02%7Ceventosyproducciones%40universidadean.edu.co%7Cc4be3e8b5b5f49b6e9840
+ 8dea6160be0%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C63913081112963621
+ 5%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAi
+ OiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dTEFr8C72d
+ ihe0FmKxwob5SAwcOLXHmH%2Byp9QiY0qxc%3D&reserved=0> 	\nHemos adjuntado un n
+ uevo evento de calendario que debería actualizar automáticamente tu cale
+ ndario.\n\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%
+ 2F%2Fluma.com%2F&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.
+ co%7Cc4be3e8b5b5f49b6e98408dea6160be0%7Cc06fb5591b684b84a14f47d0d837a5ab%7
+ C1%7C0%7C639130811129660248%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydW
+ UsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0
+ %7C%7C%7C&sdata=z%2B4XLqemxgV3WNYw0GC0V%2FEw%2Bj8hD0nN6behP0F3n%2FE%3D&res
+ erved=0> 	 <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2
+ F%2Fluma.com%2Fios&data=05%7C02%7Ceventosyproducciones%40universidadean.ed
+ u.co%7Cc4be3e8b5b5f49b6e98408dea6160be0%7Cc06fb5591b684b84a14f47d0d837a5ab
+ %7C1%7C0%7C639130811129683934%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy
+ dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7
+ C0%7C%7C%7C&sdata=w9lLIpCDHDnd4tJM3ikchW2ukmxeh6y3IwnYWCnOfgs%3D&reserved=
+ 0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2F
+ luma.com%2Fandroid&data=05%7C02%7Ceventosyproducciones%40universidadean.ed
+ u.co%7Cc4be3e8b5b5f49b6e98408dea6160be0%7Cc06fb5591b684b84a14f47d0d837a5ab
+ %7C1%7C0%7C639130811129706156%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy
+ dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7
+ C0%7C%7C%7C&sdata=B%2FPOMsf0%2FGYPBKaf2F6%2F4Uf10cvc%2FnLUbE%2FSaYYYNs8%3D
+ &reserved=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=http
+ s%3A%2F%2Fx.com%2Flumahq&data=05%7C02%7Ceventosyproducciones%40universidad
+ ean.edu.co%7Cc4be3e8b5b5f49b6e98408dea6160be0%7Cc06fb5591b684b84a14f47d0d8
+ 37a5ab%7C1%7C0%7C639130811129731187%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcG
+ kiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3
+ D%3D%7C0%7C%7C%7C&sdata=ULnaWiKzLNhBo%2Bq1CU971cc3ZJp1Irl0alMvsk1GNc0%3D&r
+ eserved=0> 	\n <https://nam10.safelinks.protection.outlook.com/?url=https%
+ 3A%2F%2Finstagram.com%2Fluma_hq&data=05%7C02%7Ceventosyproducciones%40univ
+ ersidadean.edu.co%7Cc4be3e8b5b5f49b6e98408dea6160be0%7Cc06fb5591b684b84a14
+ f47d0d837a5ab%7C1%7C0%7C639130811129755054%7CUnknown%7CTWFpbGZsb3d8eyJFbXB
+ 0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUI
+ joyfQ%3D%3D%7C0%7C%7C%7C&sdata=y0MOKgCSRahwfYkdRSHQ4fOBl0A1sJgTYSKzku6MY5Y
+ %3D&reserved=0> 	\n \nOrganiza tu evento con Luma ↗ <https://nam10.saf
+ elinks.protection.outlook.com/?url=https%3A%2F%2Fluma.com%2Fcreate%3Fref%3
+ Demail&data=05%7C02%7Ceventosyproducciones%40universidadean.edu.co%7Cc4be3
+ e8b5b5f49b6e98408dea6160be0%7Cc06fb5591b684b84a14f47d0d837a5ab%7C1%7C0%7C6
+ 39130811129779403%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIw
+ LjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&
+ sdata=%2FysFA%2BO7lCn1XSQrdca8S6w6xhJEX5gNinzqvuewZUk%3D&reserved=0> 	\n
+  \n <https://jpdm6py0.r.us-west-2.awstrack.me/I0/0101019dda5199ad-b37df7
+ 45-c920-4bb7-86b5-fb2c77ff85be-000000/OZWR2uXDrDEFkutTgmLR6tFILqE=474>\n\n
+ Información original de Outlook:\nOrganizador Outlook: Eventos Ean\nAsist
+ entes requeridos: EVENTOS Y PRODUCCIONES EAN\nPrioridad: Normal\nPrivado: 
+ Falso\nSensibilidad: Normal\nMostrar como: 1 (TENTATIVE)\nRecordatorio: Fa
+ lso
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:20c8d951964b39895f52ebcea65f1f9639ccf52b@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260530T140000
+DTEND;TZID=America/Bogota:20260530T210000
+SUMMARY:REGISTRDURIA ELECCIONES
+LOCATION:Auditorio Fundadores
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: REGISTRDURIA ELECCIONES
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0553bfd9765836123e23641577f078052e5fbd94@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T080000
+DTEND;TZID=America/Bogota:20260525T150000
+SUMMARY:INTERNO (AA): RUEDA DE NEGOCIOS REMODA CAR
+LOCATION:AUDITORIO FUNDADORES - LOBBY FUNDADORES
+DESCRIPTION:*	\n	LUGAR: AUDITORIO FUNDADORES - LOBBY FUNDADORES\n*	\n	EVENT
+ O: INTERNO 11/05/2026 DE 08:00 A.M. A 3:00 P.M. \n*	\n	CASO Y # DE RESERVA
+ : 78188 - 30164545\n*	\n	RESPONSABLE: MARIA DEL CARMEN RODRIGUEZ\n*	\n	REQ
+ UERIMIENTOS: IINGRESO POR LA 79 - SEGURIDAD \n*	\n	MOBILIARIO PRINCIPAL (P
+ RIMER MOMENTO – PANEL) - AUDITORIO FUNDADORES \n*	\n	Poltronas tipo pane
+ l: Cantidad: 3 a 5 unidades \n*	\n	Mesas auxiliares: Cantidad: 2 Tipo apoy
+ o para panelistas\n*	\n	Atril institucional: con branding “Rueda de Nego
+ cios Remoda” (si se tienen - se debe realizar imagen 1080x1920\, en form
+ ato video con un tiempo mínimo de 10 minutos)\n*	\n	Cubos brandeados: Can
+ tidad: 2 Uso: Escenografía del auditorio y apoyo visual de marca (no se t
+ ienen - la traen ellos)\n*	\n	Ambientación: Vegetación sutil\, plantas d
+ ecorativas puntuales\, no saturar. Ubicación: laterales del escenario (se
+  debe hablar con planta física\, si se pueden utilizar algunas)\n*	\n	Ilu
+ minación: Iluminación frontal para panelistas\, luz cálida profesional\
+ , refuerzo sobre branding (atril + cubos) (se tiene la iluminación sencil
+ la de la tarima)\n	\n	\n*	\n	Adicional a esto de Técnica de esto se habl
+ ó de que se hará uso\, de los 2 micrófonos inalámbricos\, 1 micrófono
+  de atril\, uso de la pantalla para contenido de presentaciones y videos\,
+  clicker.\n\n\n\n\n*	\n	OBJETIVO: Cierre Proyecto\n*	\n	PAX: 250\n\nInform
+ ación original de Outlook:\nCategoría: Auditorio Fundadores\nPrioridad: 
+ Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\nReco
+ rdatorio: Falso
+CATEGORIES:Auditorio Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:582d07963df8317cb69789454d511c22938c5ff5@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T180000
+DTEND;TZID=America/Bogota:20260525T210000
+SUMMARY:INTERNO (A): Ensayo Orquesta Juan N. Corpas
+LOCATION:AULA MÚLTIPLE 1&2
+DESCRIPTION:*	\n	LUGAR: AULA MÚLTIPLE 1&2 \n*	\n	EVENTO: INTERNO 02/03/202
+ 6 DE 09:00 A.M. A 11:00 A.M. \n*	\n	CASO Y # DE RESERVA: Correo - Convenio
+ \n*	\n	RESPONSABLE: Yesenia Juan N. Corpas \n*	\n	REQUERIMIENTOS: 60 silla
+ s\n\nInformación original de Outlook:\nCategoría: Aula Múltiple\nPriori
+ dad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\
+ nRecordatorio: Verdadero
+CATEGORIES:Aula Múltiple
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (A): Ensayo Orquesta Juan N. Corpas
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a701d42cc956e9ffbde9283c17b8b1fcc690604@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260526T180000
+DTEND;TZID=America/Bogota:20260526T210000
+SUMMARY:INTERNO (A): Ensayo Orquesta Juan N. Corpas
+LOCATION:AULA MÚLTIPLE 1&2
+DESCRIPTION:*	\n	LUGAR: AULA MÚLTIPLE 1&2 \n*	\n	EVENTO: INTERNO 02/03/202
+ 6 DE 09:00 A.M. A 11:00 A.M. \n*	\n	CASO Y # DE RESERVA: Correo - Convenio
+ \n*	\n	RESPONSABLE: Yesenia Juan N. Corpas \n*	\n	REQUERIMIENTOS: 60 silla
+ s\n\nInformación original de Outlook:\nCategoría: Aula Múltiple\nPriori
+ dad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\
+ nRecordatorio: Verdadero
+CATEGORIES:Aula Múltiple
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (A): Ensayo Orquesta Juan N. Corpas
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:518dd3e610226da6eb79143252ce4c4f74a87845@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260526T080000
+DTEND;TZID=America/Bogota:20260526T200000
+SUMMARY:INTERNO (MONTAJE)GRADOS COLECTIVOS
+LOCATION:Auditorio Orígenes
+DESCRIPTION:ORIGENES\n\nInformación original de Outlook:\nCategoría: Audi
+ torio Orígenes\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\n
+ Mostrar como: 2 (BUSY)\nRecordatorio: Falso
+CATEGORIES:Auditorio Orígenes
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:b5495a7dda42145684abef872496a40edde4512c@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T150000
+DTEND;TZID=America/Bogota:20260525T220000
+SUMMARY:INTERNO (AA): cena de inmersión intercultural
+LOCATION:AUDITORIO FUNDADORES - LOBBY
+DESCRIPTION:*	\n	LUGAR: AUDITORIO FUNDADORES - LOBBY\n*	\n	EVENTO: INTERNO 
+ 25/05/2026 DE 03:30 P.M. A 10:00 P.M. \n*	\n	CASO Y # DE RESERVA: N/A - 30
+ 162895 \n*	\n	RESPONSABLE: MICHAEL (NEGOCIOS FAFCE)\n*	\n	REQUERIMIENTOS: 
+ 17 mesas redondas con licra\, cada mesa con 9 sillas. Pantalla (imagen pri
+ ncipal del evento)\, 2 micrófonos inalámbricos\, 1 micrófono de atril\,
+  música ambiental.\n	Lobby Fundadores - Backing / 2 par led\n*	\n	OBJETIV
+ O: Espacio central del evento \n*	\n	PAX: 170\n\nInformación original de 
+ Outlook:\nCategoría: Auditorio Fundadores\nPrioridad: Normal\nPrivado: Fa
+ lso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AA): cena de inmersión intercultural
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe1a07ad476edf4ce208f90f4b5c74f99573592@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T130000
+DTEND;TZID=America/Bogota:20260525T180000
+SUMMARY:EVENTO EXTERNO: DIÁLECTICA
+LOCATION:Auditorio Orígenes
+DESCRIPTION:ORIGENES- JES 30163032\n\nInformación original de Outlook:\nCa
+ tegoría: Auditorio Orígenes\nPrioridad: Normal\nPrivado: Falso\nSensibil
+ idad: Normal\nMostrar como: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Orígenes
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: EVENTO EXTERNO: DIÁLECTICA
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:40b8f2d5829ca19cf4f8a1da5406f1a0608338ca@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260530T070000
+DTEND;TZID=America/Bogota:20260530T150000
+SUMMARY:CIERRE DE LA FILARMONICA DRA. CECILIA CRISSIEN DE PERICO
+LOCATION:AUD.ORIGENES
+DESCRIPTION:LUGAR: AUD.ORIGENES\nEVENTO: INTERNO 15/01/2026 DE 6:00 P.M. A 
+ 9:00 P.M.\nCASO Y # DE RESERVA: 72764 - 30161536\nRESPONSABLE: MICHELL AND
+ REA ACUÑA DIAZ\nREQUERIMIENTOS: Validar los requerimientos\nOBJETIVO: Dar
+  el cierre de semestre a la Filarmónica \nPAX: 100\n\nInformación origin
+ al de Outlook:\nCategoría: Auditorio Orígenes\nPrioridad: Normal\nPrivad
+ o: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\nRecordatorio: Verd
+ adero
+CATEGORIES:Auditorio Orígenes
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: CIERRE DE LA FILARMONICA DRA. CECILIA CRISSIEN DE
+  PERICO
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a00cf9da4e24c34eeda8a7432f49de706b2e7b48@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260530T140000
+DTEND;TZID=America/Bogota:20260530T220000
+SUMMARY:EVENTO EXTERNO: CIRCOMBIA
+LOCATION:Auditorio Orígenes
+DESCRIPTION:ORIGENES- LEY PRUEBAS DE 2PM A 4PM PRIMERA FUNCION 5PM - SEGUND
+ A 8PM. -30163030\n\nInformación original de Outlook:\nCategoría: Auditor
+ io Orígenes\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMos
+ trar como: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Orígenes
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: EVENTO EXTERNO: CIRCOMBIA
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:24d17cb842019c74fb3fb0eab9076b0f71bd331a@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T160000
+DTEND;TZID=America/Bogota:20260525T220000
+SUMMARY:INTERNO (AA): Alistamiento alimentos cena de inmersión intercultur
+ alLUGAR: AULA MÚLTIPLE 1&2   EVENTO: INTERNO 02/03/2026 DE 09:00 A.M. A 1
+ 1:00 A.M.   CASO Y # DE RESERVA: 75650- 30163516   RESPONSABLE: YUDY AIDE 
+ CASTILLO TRIVIÑO   REQUERIMIENTOS: Tipo...
+LOCATION:MAGISTRAL FUNDADORES
+DESCRIPTION:*	\n	LUGAR: MAGISTRAL FUNDADORES \n*	\n	EVENTO: INTERNO 25/05/2
+ 026 DE 04:00 P.M. A 10:00 P.M. \n*	\n	CASO Y # DE RESERVA: N/A - 30162895 
+ \n*	\n	RESPONSABLE: MICHAEL (NEGOCIOS FAFCE)\n*	\n	REQUERIMIENTOS: 6 mesas
+  de 1.80 sin licra.\n*	\n	OBJETIVO: Alistamiento alimentos \n*	\n	PAX: 5\n
+ \nInformación original de Outlook:\nCategoría: Magistral Fundadores\nPri
+ oridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUS
+ Y)\nRecordatorio: Verdadero
+CATEGORIES:Magistral Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AA): Alistamiento alimentos cena de inme
+ rsión interculturalLUGAR: AULA MÚLTIPLE 1&2   EVENTO: INTERNO 02/03/2026
+  DE 09:00 A.M. A 11:00 A.M.   CASO Y # DE RESERVA: 75650- 30163516   RESPO
+ NSABLE: YUDY AIDE CASTILLO TRIVIÑO   REQUERIMIENTOS: Tipo...
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7d939e52595d3737c4103a9d800b7f47547838@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260527T080000
+DTEND;TZID=America/Bogota:20260527T200000
+SUMMARY:INTERNO (AAA): BODEGA Y OFICINA CEREMONIA DE GRADOS COLECTIVOS
+LOCATION:Magistral Fundadores
+DESCRIPTION:Información original de Outlook:\nCategoría: Magistral Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Magistral Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): BODEGA Y OFICINA CEREMONIA DE GRAD
+ OS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7c6dfe1a019f3fb351c693a7a0edb694e4f7ea35@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T080000
+DTEND;TZID=America/Bogota:20260528T200000
+SUMMARY:INTERNO (AAA): BODEGA Y OFICINA CEREMONIA DE GRADOS COLECTIVOS
+LOCATION:Magistral Fundadores
+DESCRIPTION:Información original de Outlook:\nCategoría: Magistral Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Magistral Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): BODEGA Y OFICINA CEREMONIA DE GRAD
+ OS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ed979e85257bbd526fcea0248f2cff2e89e8cf38@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T080000
+DTEND;TZID=America/Bogota:20260529T200000
+SUMMARY:INTERNO (AAA): BODEGA Y OFICINA CEREMONIA DE GRADOS COLECTIVOS
+LOCATION:Magistral Fundadores
+DESCRIPTION:Información original de Outlook:\nCategoría: Magistral Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Magistral Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): BODEGA Y OFICINA CEREMONIA DE GRAD
+ OS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4427f6b2aafcf1c21f69ac2253d0969459c69bf9@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T080000
+DTEND;TZID=America/Bogota:20260528T200000
+SUMMARY:INTERNO (AAA): REVESTIMIENTO CEREMONIA DE GRADOS COLECTIVOS
+LOCATION:Auditorio Fundadores
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): REVESTIMIENTO CEREMONIA DE GRADOS 
+ COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2bab1af106b077f9888c7d27f62e114aa9008b8f@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T080000
+DTEND;TZID=America/Bogota:20260529T200000
+SUMMARY:INTERNO (AAA): REVESTIMIENTO CEREMONIA DE GRADOS COLECTIVOS
+LOCATION:Auditorio Fundadores
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): REVESTIMIENTO CEREMONIA DE GRADOS 
+ COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aafd7c0c282453e47ca654a221848baf1e4d4569@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260527T080000
+DTEND;TZID=America/Bogota:20260527T200000
+SUMMARY:INTERNO (AAA): RETRANSMISIÓN CEREMONIA GRADOS COLECTIVOS
+LOCATION:Auditorio Nativos
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Nativo
+ s\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 
+ 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Nativos
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): RETRANSMISIÓN CEREMONIA GRADOS CO
+ LECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:efc2bb02106ad571e7e1d67777b75b0a6243fc62@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T080000
+DTEND;TZID=America/Bogota:20260528T200000
+SUMMARY:INTERNO (AAA): RETRANSMISIÓN CEREMONIA GRADOS COLECTIVOS
+LOCATION:Auditorio Nativos
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Nativo
+ s\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 
+ 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Nativos
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): RETRANSMISIÓN CEREMONIA GRADOS CO
+ LECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:86df42eca3ede3b1bd0984a2cd528054a0f58efc@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T080000
+DTEND;TZID=America/Bogota:20260529T170000
+SUMMARY:INTERNO (AAA): RETRANSMISIÓN CEREMONIA GRADOS COLECTIVOS
+LOCATION:Auditorio Nativos
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Nativo
+ s\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 
+ 2 (BUSY)\nRecordatorio: Falso
+CATEGORIES:Auditorio Nativos
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0d213b68c8b8bb203a282676f643d7ac0caade@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260527T080000
+DTEND;TZID=America/Bogota:20260527T200000
+SUMMARY:INTERNO (AAA): CEREMONIA GRADOS COLECTIVOS
+LOCATION:Auditorio Orígenes
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Oríge
+ nes\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como
+ : 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Orígenes
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): CEREMONIA GRADOS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cada6aad7f45c3f58c2651484d887ff7d782f20c@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260528T080000
+DTEND;TZID=America/Bogota:20260528T200000
+SUMMARY:INTERNO (AAA): CEREMONIA GRADOS COLECTIVOS
+LOCATION:Auditorio Orígenes
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Oríge
+ nes\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como
+ : 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Orígenes
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): CEREMONIA GRADOS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d8e3a724bc1c2e87213fdcf6181748241436cc@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260529T080000
+DTEND;TZID=America/Bogota:20260529T200000
+SUMMARY:INTERNO (AAA): CEREMONIA GRADOS COLECTIVOS
+LOCATION:Auditorio Orígenes
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Oríge
+ nes\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como
+ : 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Orígenes
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (AAA): CEREMONIA GRADOS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd9e21a80c67b3fe5cbc0872ce5dbf9e923df87@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260526T120000
+DTEND;TZID=America/Bogota:20260526T200000
+SUMMARY:INTERNO (MONTAJE): GRADOS COLECTIVOS
+LOCATION:Magistral Fundadores
+DESCRIPTION:Información original de Outlook:\nCategoría: Magistral Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Magistral Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (MONTAJE): GRADOS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:55c26913f1af59b525c8ff39cfc31b49e09e62d4@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260526T080000
+DTEND;TZID=America/Bogota:20260526T200000
+SUMMARY:INTERNO (MONTAJE): GRADOS COLECTIVOS
+LOCATION:Auditorio Nativos
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Nativo
+ s\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 
+ 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Nativos
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (MONTAJE): GRADOS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:792b21e022dcb3763d1865b6813b61de5fd7f349@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260526T080000
+DTEND;TZID=America/Bogota:20260526T200000
+SUMMARY:INTERNO (MONTAJE): GRADOS COLECTIVOS
+LOCATION:Auditorio Fundadores
+DESCRIPTION:Información original de Outlook:\nCategoría: Auditorio Fundad
+ ores\nPrioridad: Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar com
+ o: 2 (BUSY)\nRecordatorio: Verdadero
+CATEGORIES:Auditorio Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (MONTAJE): GRADOS COLECTIVOS
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:463a5fcb9a1f6ff2ff5ace5b2e71755fb556db69@chatgpt-csv-to-ics
+DTSTAMP:20260611T153708Z
+DTSTART;TZID=America/Bogota:20260525T140000
+DTEND;TZID=America/Bogota:20260525T160000
+SUMMARY:INTERNO (CLASE): MASTERCLASS DOCENTE ESPAÑA
+LOCATION:MAGISTRAL FUNDADORES
+DESCRIPTION:*	\n	LUGAR: MAGISTRAL FUNDADORES\n*	\n	EVENTO: INTERNO 25/05/20
+ 26 DE 2:00 P.M. A 4:00 P.M. \n*	\n	CASO Y # DE RESERVA: 80537 - 30170697\n
+ *	\n	RESPONSABLE: NOE CASTILLO (FAFCE) \n*	\n	REQUERIMIENTOS: 1 mic\, vide
+ o beam y audio. \n*	\n	OBJETIVO: Clase Masterclass \n*	\n	PAX: 50\n\nInfor
+ mación original de Outlook:\nCategoría: Magistral Fundadores\nPrioridad:
+  Normal\nPrivado: Falso\nSensibilidad: Normal\nMostrar como: 2 (BUSY)\nRec
+ ordatorio: Verdadero
+CATEGORIES:Magistral Fundadores
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: INTERNO (CLASE): MASTERCLASS DOCENTE ESPAÑA
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
